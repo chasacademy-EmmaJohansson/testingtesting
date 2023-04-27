@@ -13,6 +13,12 @@ export default function Navbar() {
         <li>
           <Link href="components/contact">Contact</Link>
         </li>
+        <li>
+          <Link href="components/login">Log in</Link>
+        </li>
+        <li>
+          <Link href="components/about">About us</Link>
+        </li>
       </ul>
     </nav>
   );
